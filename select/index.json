@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "マフラー",
+  "base_artist": "羊文学",
+  "createdAt": "2026-02-11T04:07:22.310198Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "マフラー",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/01_マフラー_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "マフラー",
+      "artist": "羊文学",
+      "has_synced": true,
+      "path": "select/02_マフラー_羊文学.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "マフラー",
+      "artist": "SHISHAMO",
+      "has_synced": true,
+      "path": "select/03_マフラー_SHISHAMO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マフラー",
+      "artist": "羊文学",
+      "has_synced": false,
+      "path": "select/pl_01_マフラー_羊文学.txt"
+    }
+  ]
+}
